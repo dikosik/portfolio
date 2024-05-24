@@ -1,0 +1,26 @@
+
+
+.bacground{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(../../images/bg.jpeg);
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+
+
+.title{
+    position: relative;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 6vw;
+    margin-top: 35vh;
+    letter-spacing: 4vw;
+    font-family: "Playfair Display SC", serif;
+    font-weight: 400;
+    font-style: normal;
+}

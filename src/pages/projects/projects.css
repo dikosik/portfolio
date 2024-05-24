@@ -1,0 +1,12 @@
+.projects-container{
+    display: flex;
+}
+
+
+
+.cards{
+    display: grid;
+    grid-template-columns: repeat(3, 20vw);
+    grid-row-gap: 2vw;
+    grid-column-gap: 2vw;
+}

@@ -1,0 +1,23 @@
+.buttons{
+    display: flex;
+}
+
+
+
+.edit, .delete{
+    color: #fff;
+    background: none;
+    border: 2px solid #eb3c05;
+    color: #fff;
+    border-radius: 50px;
+    padding: 0.5vw 3vw;
+    margin-right: 2vw;
+    margin-top: 2vw;
+    cursor: pointer;
+}
+
+
+.edit-link{
+    color: #fff;
+    text-decoration: none;
+}

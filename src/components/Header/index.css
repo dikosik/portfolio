@@ -1,0 +1,28 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 2vw 7vw;
+    position: relative;
+    z-index: 1;
+  }
+  
+  .nav-link {
+    text-decoration: none;
+    font-family: "Playfair Display SC", serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+
+  .nav-link:hover{
+    text-decoration: underline;
+  }
+  
+  .black-link {
+    color: black;
+  }
+  
+  .white-link {
+    color: #eb3c05;
+  }
+  

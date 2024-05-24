@@ -1,0 +1,33 @@
+.info-container{
+    display: grid;
+    grid-template-columns: 14vw repeat(2, 30vw);
+    margin-left: 1vw;
+    margin-top: 15vh;
+}
+
+.social-media-link{
+    text-decoration: none;
+    color: #eb3c05;
+    margin-bottom: 5vh;
+}
+
+.social-media-link:hover{
+    text-decoration: underline;
+}
+
+.photo{
+    width: 25vw;
+    border-radius: 10px;
+}
+
+.info-text{
+    color: #fff;
+}
+
+.span{
+    color: #eb3c05;
+}
+
+.uni, .education{
+    margin-top: 1vh;
+}
